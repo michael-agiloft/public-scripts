@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         EW Support Alterations
 // @namespace    https://support.agiloft.com/
-// @version      0.3
+// @version      0.4
 // @description  Make Alterations to the Assignee dropdown
 // @author       Michael Walker
 // @match        https://support.agiloft.com/ui/*
