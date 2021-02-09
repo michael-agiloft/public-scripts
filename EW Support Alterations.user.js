@@ -94,7 +94,7 @@
                                     + '<button type="button" data-value="9932:0">Michael</button>'
                                     + '<button type="button" data-value="14361:0">Nathan</button>'
                                     + '<button type="button" data-value="5801:0">Stephen</button>'
-                                    + '<button type="button" data-value="389:0">Support Team</button>';
+                                    + '<button type="button" data-value="389:1">Support Team</button>';
                             } else if (header == 'Ticket') {
                                 buttons = '<button type="button" data-value="441:0">IT Team</button>'
                                     + '<button type="button" data-value="5005:1">David</button>'
@@ -102,7 +102,7 @@
                                     + '<button type="button" data-value="9932:1">Michael</button>'
                                     + '<button type="button" data-value="14361:1">Nathan</button>'
                                     + '<button type="button" data-value="5801:1">Stephen</button>'
-                                    + '<button type="button" data-value="389:1">Support Team</button>';
+                                    + '<button type="button" data-value="389:0">Support Team</button>';
                             }
 
                             row
